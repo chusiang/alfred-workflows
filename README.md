@@ -12,6 +12,29 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 ## Workflows
 
+### Myself
+
+### [MacVim](https://github.com/chusiang/alfred-workflows/tree/master/macvim) (v1.0) ~ [Download](https://github.com/chusiang/alfred-workflows/blob/master/macvim/macvim.alfredworkflow?raw=true)
+
+Open files or folders in MacVim ~ *by [@chusiang](https://github.com/chusiang/).*
+
+> Triggers: `vi`, `vim`, `mvim`.
+
+<img width="654" alt="2015-07-25-alfred-macvim-workflows" src="https://cloud.githubusercontent.com/assets/219066/8888786/d38141f2-32ee-11e5-86c9-ef94ceb9445d.png">
+
+### [SpeedTest](https://github.com/chusiang/alfred-workflows/tree/master/speedtest) (v1.0) ~ [Download](https://github.com/chusiang/alfred-workflows/blob/master/speedtest/speedtest.alfredworkflow?raw=true)
+
+Run SpeedTest with [speedtest-cli](https://github.com/sivel/speedtest-cli) ~ *by [@chusiang](https://github.com/chusiang/).*
+
+> Triggers: `speedtest`, `networking`.
+
+<img width="654" alt="2016-05-22-speedtest1.png" src="https://cloud.githubusercontent.com/assets/219066/15454323/1043ab0e-2068-11e6-8e84-6b819ef32f9c.png">
+
+<img width="654" alt="2016-05-22-speedtest2.png" src="https://cloud.githubusercontent.com/assets/219066/15454324/10444c08-2068-11e6-81af-99db7faf2fa5.png">
+
+
+### Other
+
 :arrow_down: **&nbsp;[Download them all](https://github.com/zenorocha/alfred-workflows/releases).**
 
 ### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
@@ -176,14 +199,6 @@ Get an instant list of the current time in various cities around the world ~ *by
 > Triggers: `tz`.
 
 ![TimeZones Workflow](https://cloud.githubusercontent.com/assets/398893/3528947/56255bb6-0794-11e4-8ecb-d4aed39dbff2.png)
-
-### [MacVim](https://github.com/chusiang/alfred-workflows/tree/master/macvim) (v1.0) ~ [Download](https://github.com/chusiang/alfred-workflows/blob/master/macvim/macvim.alfredworkflow?raw=true)
-
-Open files or folders in MacVim ~ *by [@chusiang](https://github.com/chusiang/).*
-
-> Triggers: `vi`, `vim`, `mvim`.
-
-<img width="654" alt="2015-07-25-alfred-macvim-workflows" src="https://cloud.githubusercontent.com/assets/219066/8888786/d38141f2-32ee-11e5-86c9-ef94ceb9445d.png">
 
 ### [VirtualBox](https://github.com/aiyodk/Alfred-Extensions/tree/master/AlfredApp_2.x/VirtualBox-Control) (v2.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/virtualbox/virtualbox.alfredworkflow)
 
